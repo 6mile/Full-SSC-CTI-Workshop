@@ -5,7 +5,9 @@
 ![6mile Canberra BSides 2026](images/canberra-bsides-2026-paul-training.png)
 
 **Instructor:** Paul McCarty ([sourcecodered.com](https://sourcecodered.com), [OpenSourceMalware.com](https://opensourcemalware.com))
+
 **Format:** 8-hour hands-on training
+
 **Level:** Intermediate
 
 ---
