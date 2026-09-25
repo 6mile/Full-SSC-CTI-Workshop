@@ -6,7 +6,7 @@
 
 **Instructor:** Paul McCarty ([sourcecodered.com](https://sourcecodered.com), [OpenSourceMalware.com](https://opensourcemalware.com))
 
-**Format:** 8-hour hands-on training
+**Format:** All-day hands on workshop
 
 **Level:** Intermediate
 
