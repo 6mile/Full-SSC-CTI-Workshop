@@ -9,7 +9,7 @@
 
 ## The Scenario
 
-> **Jordan**, a smart-contract dev on your team, forwards you a GitHub repo they're considering forking to learn from: `ShamratX/AI-Banking`. Its description reads *"a personal financial assistant (Banker Expert) — Node.js/Express + React with JWT auth, AI reports, and crypto market hooks."* The owner's bio says *"Smart Contract Engineer • Web3 Infrastructure • Full-Stack DApps."*
+> You work for a large bank.  Think one of the big four.  **Jordan**, a senior developer in the company forwards you a GitHub repo they're considering forking to use in an upcoming integration project: `ShamratX/AI-Banking`. Its description reads *"a personal financial assistant (Banker Expert) — Node.js/Express + React with JWT auth, AI reports, and crypto market hooks."* The owner's bio says *"Smart Contract Engineer • Web3 Infrastructure • Full-Stack DApps."*
 >
 > Jordan's question is short: *"is this repo safe to clone?"*
 
