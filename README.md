@@ -42,19 +42,15 @@ Before you arrive, follow [`SETUP.md`](SETUP.md). Minimum:
 
 ## Schedule
 
-| Block | Time | What you do |
+| Time | Block | What you do |
 |---|---|---|
-| Kickoff | 30m | Threat landscape, taxonomy, ROE. Slides `00–01`. |
-| Module 1 — GitHub | 122m | Labs 1a, 1b, 1c, 1d, **1e (YARA)** |
-| Break | 7m | |
-| Module 2 — NPM | 125m | Labs 2a, 2b, 2c, 2d, **2e (YARA)** |
-| Module 3 — PyPI | 70m | Labs 3a, 3b, **3c (YARA)** |
-| Lunch | 45m | |
-| Module 4 — VS Code | 85m | Slides `02` + Labs 4a, 4b, **4c (YARA)** |
-| Module 5 — CTI workflow | 60m | Labs 5a, 5b, 5c |
-| Break | 5m | |
-| CTF finale | 45m | Live hunt + disclosure |
-| Wrap | 11m | Debrief, resources, Q&A |
+| 9:00 – 10:30 | Kickoff + Module 1 — GitHub | Threat landscape, taxonomy, ROE. Slides `00–01`. Labs 1a, 1b, 1c, 1d, **1e (YARA)** |
+| 10:30 – 10:40 | Break (10m) | |
+| 10:40 – 12:30 | Module 2 — NPM + Module 3 — PyPI | Labs 2a, 2b, 2c, 2d, **2e (YARA)** · Labs 3a, 3b, **3c (YARA)** |
+| 12:30 – 1:30 | Lunch (60m) | |
+| 1:30 – 2:30 | Module 4 — VS Code | Slides `02` + Labs 4a, 4b, **4c (YARA)** |
+| 2:30 – 2:35 | Break (5m) | |
+| 2:35 – 3:30 | Module 5 — CTI workflow + CTF finale + Wrap | Labs 5a, 5b, 5c · Live hunt + disclosure · Debrief, resources, Q&A |
 
 ## Repo layout
 
